@@ -1,4 +1,4 @@
-# sudol-visualization
+# sudol-visualization (available: https://sudol.wisie.pk.edu.pl/)
 
 Application created for Engineering Thesis. It is used to visualize data from hydro-meteorological stations. Information from the station is downloaded via the thingpeak API as JSON objects, transformed into another format and then saved in the database. Charts are created based on the information stored in the database.
 
@@ -22,8 +22,6 @@ A logged in user with the teacher role has access to changing the date range and
 
 A logged in user with the administrator role can also download a csv file with the data currently presented in the chart and instructions as pdf file.
 
-## pages
-A link to visit the website will appear soon. Meanwhile, the website view is shown below.
 ### main page
 ![main_page](https://github.com/kbcodec/sudol-visualization/assets/103029426/be3cdf3e-d593-419b-a3d2-db4e009e37bb)
 
